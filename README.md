@@ -1,5 +1,5 @@
 # PRODIGY_WD_02
-TASK - 1 Created a Simple Stopwatch using HTML, CSS, JavaScript
+TASK - 2 Created a Simple Stopwatch using HTML, CSS, JavaScript
 
 🚀 Features
 ✅ Start, Pause, and Reset functionality
