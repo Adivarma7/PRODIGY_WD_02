@@ -23,5 +23,5 @@ Click Lap to record the current time interval.
 Feel free to contribute! Open an issue or submit a pull request to improve this project.
 
 🔗 Connect with Me
-📧 Email: avarm77777@gmail.com
+📧 Email: avarma77777@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/adithya-varma-71408a25a
